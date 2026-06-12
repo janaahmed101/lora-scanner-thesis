@@ -1,0 +1,14 @@
+{
+  "debug": {
+    "enable": false,
+    "lorawan_trace": false,
+    "frame_dump": false
+  },
+  "radio": {
+    "frequency_hz": 868100000,
+    "bandwidth_hz": 125000,
+    "spreading_factor": 8,
+    "coding_rate": 5,
+    "oversample": 1
+  }
+}
